@@ -1,8 +1,10 @@
 # 💫 Hello there!
 <br>
 <ul>
-  <li>I'm currently working on My IT projects</li>  
-  <li>I'm currently learning Node.js/Express (to be a fullstack developer)</li>
+  <li>👨🏻‍💻 I'm currently working on My IT projects</li>  
+  <li>🌱 I'm currently learning Node.js/Express (to be a fullstack developer)</li>
+  <li>🌍 I speak Russian (native), English (B2)</li>
+  <li>📚 Details about my experience you can find on <a href="https://lipetsk.hh.ru/resume/27613132ff038007570039ed1f6c56577a5453">hh.ru</a></li>
 </ul>
 
 # 💻 Tech Stack:
